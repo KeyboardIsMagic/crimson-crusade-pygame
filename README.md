@@ -1,4 +1,5 @@
-﻿# Crimson Crusade
+![Title](https://github.com/KeyboardIsMagic/crimson-crusade-pygame/assets/118800540/d2010ccc-c95a-4f5c-9a95-dc10995b919b)
+ # Crimson Crusade
 
 “Crimson Crusade" is a hack-and-slash style game created using the PyGame library for Python. In this game, the player takes on the role of a heroic warrior battling through endless waves of enemies in a medieval-fantasy world. 
 
